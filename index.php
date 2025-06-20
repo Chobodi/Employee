@@ -78,6 +78,7 @@
     <body class="container" style="background-image: url(img.jpg);">
     <div class="container">
     <a href="biodata.php"><button type="button" class="btn btn-primary btn-lg" >View Data</button></a>
+	<a href="update.php"><button type="button" class="btn btn-primary btn-lg" >Update Data</button></a>
     </div>
     <div class="row">
       <div class="col-sm-3"></div>
